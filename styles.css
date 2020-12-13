@@ -1,0 +1,59 @@
+
+
+/* Background */
+.amdiv{
+    
+    text-align: center;
+    margin-top: 100px;
+    width: 1920px;
+    
+}
+
+/* Hobbies */
+.Hodiv{
+    
+    text-align: center;
+    margin-top: 100px;
+    width: 1920px;
+}
+
+
+/* Experience Div */
+.Exdiv{
+    
+    text-align: center;
+    margin-top: 100px;
+    width: 1920px;
+
+}
+
+.ContactInfo{
+    
+    text-align: center;
+    margin-top: 100px;
+    width: 1920px;
+   
+}
+
+.background{
+
+    width: 1920px;
+}
+
+
+
+
+h1 { color: blue;font-family: Anton; font-size: 75px; font-style: normal; font-variant: normal;text-align:center; font-weight: 700}
+h2 { color: rgba(32, 27, 78, 0.541);font-family: Anton; font-size: 40px; font-style: normal; font-variant: normal;text-align:center; font-weight: 200; line-height: 40.8px; }
+p { color: #031e2e; font-size: 25px; font-family: Rubik; line-height: 30px; text-align: center; text-shadow: 0 1px 1px #fff; padding-top: 1px; }
+
+
+img {
+  
+    padding: 25px;
+    background-repeat: no-repeat;
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
